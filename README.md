@@ -6,3 +6,8 @@ https://www.youtube.com/watch?v=nju6jFW8CVw&list=PLiwhu8iLxKwL1TU0RMM6z7TtkyW-3-
 
 https://www.youtube.com/watch?v=5_uSpiXCeMI&ab_channel=Devoxx
 
+Good GraphiQL to expose Graph QL queries .
+
+https://docs.github.com/en/graphql/overview/explorer
+
+
