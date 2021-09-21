@@ -30,7 +30,7 @@ public class ClientResolver implements GraphQLResolver<BankAccount> {
                 .middleName(List.of("Meera"))
                 .client(client)
                 .build())
-                .error(new GenericGraphQLError("Subclient Id not fetched"))
+               // .error(new GenericGraphQLError("Subclient Id not fetched"))
                 .build();
     }
 
